@@ -209,6 +209,5 @@ __marimo__/
 # Data
 *.csv
 *.parquet
-/data
 data/*.parquet
 data/*.csv
